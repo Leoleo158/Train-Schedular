@@ -8,3 +8,12 @@ $(document).ready(function(){
         messagingSenderId: "934455543386"
     };
     firebase.initializeApp(config);
+
+ // A variable to reference the database.
+ var database = firebase.database();
+
+ // Variables for the onClick event
+ var name;
+ var destination;
+ var firstTrain;
+ var frequency = 0;
