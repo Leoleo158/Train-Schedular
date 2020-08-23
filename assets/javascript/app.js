@@ -1,12 +1,12 @@
 $(document).ready(function(){
     var config = {
-        apiKey: "AIzaSyBPCAxjycmuYaeY8RISjpPzUOSfmZIbQrQ",
-        authDomain: "train-scheduler-68643.firebaseapp.com",
-        databaseURL: "https://train-scheduler-68643.firebaseio.com",
-        projectId: "train-scheduler-68643",
-        storageBucket: "train-scheduler-68643.appspot.com",
-        messagingSenderId: "934455543386"
-    };
+	    apiKey: "AIzaSyC1zUvc5K6NJXFxwm74405gegKYfPSNT-4",
+	    authDomain: "train-schedule-db.firebaseapp.com",
+	    databaseURL: "https://train-schedule-db.firebaseio.com",
+	    projectId: "train-schedule-db",
+	    storageBucket: "train-schedule-db.appspot.com",
+	    messagingSenderId: "60174437847"
+      };
     firebase.initializeApp(config);
 
  // A variable to reference the database.
