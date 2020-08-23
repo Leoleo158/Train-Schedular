@@ -40,3 +40,5 @@ Having an active and healthy commit history on GitHub is important for your futu
   * Code this app to calculate when the next train will arrive; this should be relative to the current time.
   * Users from many different machines must be able to view same train times.
   * Styling and theme are completely up to you. Get Creative!
+  
+  Live Demo : https://gfycat.com/lonelyreasonableindianpalmsquirrel
